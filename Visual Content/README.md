@@ -14,7 +14,7 @@ Instructions
 Please include three (3) sample photographs to demonstrate that you have the skills and tools necessary to meet these standards. 
 
 1. One up close shot (macro) 
-2. One one far away shot demonstrating lighting ability 
+2. One far away shot demonstrating lighting ability 
 3. One of your choice 
 
 
