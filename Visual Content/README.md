@@ -5,7 +5,7 @@ Visual Content
 Photographs 
 -----------
 
-Photos are the backbone of every tutorial. They help tell a story that words maybe cannot convey. A good tutorial is one that can be viewed by the images alone, and the reader can still have an idea of what's happening. Our photo standards are very high and we expect the same from outside authors. 
+Photos are the backbone of every tutorial. They help tell a story that words maybe cannot convey. A good tutorial is one that can be viewed by the images alone, and the reader can still have an idea of what's happening. Our photo standards are very high, and we expect the same from outside authors. 
 
 
 Instructions
