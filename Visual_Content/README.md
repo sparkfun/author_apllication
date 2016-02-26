@@ -13,10 +13,19 @@ Instructions
 
 Please include three (3) sample photographs to demonstrate that you have the skills and tools necessary to meet these standards. 
 
-1. One up close shot (macro) 
-2. One far away shot demonstrating lighting ability 
-3. One of your choice 
+1. Project Shot - Single Neutral Light - Tripod
 
+    <center>[![alt text](images/Sample Images-01.jpg)](images/Sample Images-01.jpg)</center>
+ 
+2. Macro Shot - Single Neutral Light - Tripod
+
+    <center>[![alt text](images/Sample Images-02.jpg)](images/Sample Images-02.jpg)</center>
+
+3. Larger Project Shot - Single Neutral Light (Ideal) or Multiple Light Sources - Tripod 
+
+    <center>[![alt text](images/Sample Images-03.jpg)](images/Sample Images-03.jpg)</center>
+    
+    <center>[![alt text](images/Sample Images-04.jpg)](images/Sample Images-04.jpg)</center>
 
 Requirements
 -------------
