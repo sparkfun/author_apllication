@@ -4,4 +4,4 @@
 
 This [link](https://medium.com/@rishabhberlia/13th-april-2016-second-stage-b2ca82ee3100#.2yrxye6i5) will direct you to the blog for the 2nd Stage of the same project mentioned above.
 
-__Also you can visit my [website](www.rishabhberlia.com) to check out my technical publications.__
+Also you can visit my [website](https://www.rishabhberlia.com) to check out my technical publications.
