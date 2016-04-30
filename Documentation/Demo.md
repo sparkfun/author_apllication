@@ -1,5 +1,5 @@
-<h1>A simple guide to brush your teeth efficiently.
-<h2>by Rishabh Berlia
+<h1>A simple guide to brush your teeth efficiently.</h1>
+<h2>by Rishabh Berlia</h2>
 
 Today we are going to go through the process of brushing our teeth. It is not only one of the first things that we do when we start our day but also one of the most important one.
 
